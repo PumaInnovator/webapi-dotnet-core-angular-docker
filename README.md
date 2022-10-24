@@ -83,6 +83,6 @@ Install latest [Docker Desktop](https://www.docker.com/products/docker-desktop)
   docker-compose -f 'docker-compose.debug.yml' up
   ```
 
-  It will run fronend `http://localhost:4200` and api on `http://localhost:8080`. you can also access PGAdmin  on port 80 with username pssword provided in docker-compose, username: nitin27may@gmail.com, password: root.
+  It will run fronend `http://localhost:4200` and api on `http://localhost:8080`. you can also access PGAdmin  on port 80 with username pssword provided in docker-compose, username: abisai.aguilar2012@gmail.com, password: root.
 
   Also, it will automatically refresh (hot reload) your UI for code and api code changes.
