@@ -11,7 +11,7 @@ This project is intended to provide a starting point for building full-stack web
 Clone repo, navigate to root folder and run ` docker-compose -f 'docker-compose.yml' up`
 
 ```
-  git clone https://github.com/nitin27may/angular-dotnet-core-docker.git angular-dotnet
+  git clone https://github.com/PumaInnovator/angular-dotnet-core-docker.git angular-dotnet
   cd angular-dotnet 
   docker-compose -f 'docker-compose.yml' up
 ```
@@ -22,7 +22,7 @@ The apps written in the following JavaScript frameworks/libraries:
 | folder          | Description                                                                                  |
 | --------------- | -------------------------------------------------------------------------------------------- |
 | **frontend** | [frontend app using **Angular**](https://github.com/PumaInnovator/angular-dotnet-core-docker/tree/master/frontend)         |
-| **WebApi** | [Rest Api using **dotnet**](https://github.com/PumaInnovator/angular-dotnet-core-docker/tree/master/WebApi) | |
+| **WebApi** | [Rest Api using **dotnet**](https://github.com/PumaInnovator/angular-dotnet-core-docker/tree/master/WebApi) | 
 
 ## About Project
 
