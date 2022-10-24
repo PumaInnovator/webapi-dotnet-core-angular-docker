@@ -22,7 +22,7 @@ The apps written in the following JavaScript frameworks/libraries:
 | folder          | Description                                                                                  |
 | --------------- | -------------------------------------------------------------------------------------------- |
 | **frontend** | [frontend app using **Angular**](https://github.com/PumaInnovator/angular-dotnet-core-docker/tree/master/frontend)         |
-| **WebApi** | [Rest Api using **dotnet**](https://github.com/PumaInnovator/angular-dotnet-core-docker/tree/master/WebApi) |
+| **WebApi** | [Rest Api using **dotnet**](https://github.com/PumaInnovator/angular-dotnet-core-docker/tree/master/WebApi) | |
 
 ## About Project
 
