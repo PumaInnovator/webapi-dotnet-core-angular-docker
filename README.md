@@ -21,8 +21,8 @@ The apps written in the following JavaScript frameworks/libraries:
 
 | folder          | Description                                                                                  |
 | --------------- | -------------------------------------------------------------------------------------------- |
-| **frontend** | [frontend app using **Angular**](https://github.com/nitin27may/angular-dotnet-core-docker/tree/master/frontend)         |
-| **WebApi** | [Rest Api using **dotnet**](https://github.com/nitin27may/angular-dotnet-core-docker/tree/master/WebApi) |
+| **frontend** | [frontend app using **Angular**](https://github.com/PumaInnovator/angular-dotnet-core-docker/tree/master/frontend)         |
+| **WebApi** | [Rest Api using **dotnet**](https://github.com/PumaInnovator/angular-dotnet-core-docker/tree/master/WebApi) |
 
 ## About Project
 
@@ -77,7 +77,7 @@ Install latest [Docker Desktop](https://www.docker.com/products/docker-desktop)
   You can start the application in debug mode (database, api and frontend) using docker-compose:
 
   ```
-   git clone https://github.com/nitin27may/angular-dotnet-core-docker.git angular-dotnet
+   git clone https://github.com/PumaInnovator/angular-dotnet-core-docker.git angular-dotnet
   cd angular-dotnet 
   
   docker-compose -f 'docker-compose.debug.yml' up
